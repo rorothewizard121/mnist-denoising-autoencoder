@@ -1,5 +1,5 @@
 # mnist-denoising-autoencoder
-NumPy Implementation of a Dense Denoising Autoencoder for the MNIST Dataset 
+NumPy Implementation of a Dense Denoising Autoencoder for the MNIST Dataset.  
 With this project I wanted to implement a simple denoising autoencoder from the bottom up using only NumPy.
 This project is part of my machine learning journey, and the goal was mainly to better understand the workings
 of the DAE architecture and also deepen my understanding of the math behind it.
